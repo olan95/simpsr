@@ -3,3 +3,4 @@ Sistem Informasi Manajemen Pasar
 - Data Pedagang
 - Pengelolaan Retribusi Pasar
 - Laporan Tunggakan dan Pendapatan
+- Survey harga barang pokok setiap pasar
