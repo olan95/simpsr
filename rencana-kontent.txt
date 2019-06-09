@@ -1,4 +1,11 @@
 Rencana Konten
 - Profil Pasar
+ + nama
+ + alamat
+ + lokasi
+ + kepala pasar
+ + pegawai
+ + fasilitas
+ + tempat dagang
 - Data Pedagang
 - Laporan Tunggakan dan Pendapatan
